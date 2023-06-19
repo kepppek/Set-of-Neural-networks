@@ -1,0 +1,16 @@
+C:\SuperData\Университет\Магистратура\2.1\Искусственные нейронные сети\Лабораторные\Labs\Labs\bin\Debug\Labs.exe.config
+C:\SuperData\Университет\Магистратура\2.1\Искусственные нейронные сети\Лабораторные\Labs\Labs\bin\Debug\Labs.exe
+C:\SuperData\Университет\Магистратура\2.1\Искусственные нейронные сети\Лабораторные\Labs\Labs\bin\Debug\Labs.pdb
+C:\SuperData\Университет\Магистратура\2.1\Искусственные нейронные сети\Лабораторные\Labs\Labs\obj\Debug\Labs.csproj.AssemblyReference.cache
+C:\SuperData\Университет\Магистратура\2.1\Искусственные нейронные сети\Лабораторные\Labs\Labs\obj\Debug\Labs.csproj.SuggestedBindingRedirects.cache
+C:\SuperData\Университет\Магистратура\2.1\Искусственные нейронные сети\Лабораторные\Labs\Labs\obj\Debug\Labs.csproj.CoreCompileInputs.cache
+C:\SuperData\Университет\Магистратура\2.1\Искусственные нейронные сети\Лабораторные\Labs\Labs\obj\Debug\Labs.exe
+C:\SuperData\Университет\Магистратура\2.1\Искусственные нейронные сети\Лабораторные\Labs\Labs\obj\Debug\Labs.pdb
+C:\SuperData\Университет\Магистратура\2.2\Искусственные нейронные сети\Лабораторные\Labs\Labs\bin\Debug\Labs.exe.config
+C:\SuperData\Университет\Магистратура\2.2\Искусственные нейронные сети\Лабораторные\Labs\Labs\bin\Debug\Labs.exe
+C:\SuperData\Университет\Магистратура\2.2\Искусственные нейронные сети\Лабораторные\Labs\Labs\bin\Debug\Labs.pdb
+C:\SuperData\Университет\Магистратура\2.2\Искусственные нейронные сети\Лабораторные\Labs\Labs\obj\Debug\Labs.csproj.AssemblyReference.cache
+C:\SuperData\Университет\Магистратура\2.2\Искусственные нейронные сети\Лабораторные\Labs\Labs\obj\Debug\Labs.csproj.SuggestedBindingRedirects.cache
+C:\SuperData\Университет\Магистратура\2.2\Искусственные нейронные сети\Лабораторные\Labs\Labs\obj\Debug\Labs.csproj.CoreCompileInputs.cache
+C:\SuperData\Университет\Магистратура\2.2\Искусственные нейронные сети\Лабораторные\Labs\Labs\obj\Debug\Labs.exe
+C:\SuperData\Университет\Магистратура\2.2\Искусственные нейронные сети\Лабораторные\Labs\Labs\obj\Debug\Labs.pdb
